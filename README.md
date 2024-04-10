@@ -1,0 +1,1 @@
+this is note written while the geez tech security tester course
